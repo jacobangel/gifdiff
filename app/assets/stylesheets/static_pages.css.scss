@@ -1,0 +1,15 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap";
+.footer {
+	padding-top: 1em;
+	padding-bottom: 3em;
+	margin-top: 1em;
+	border-top: 1px solid #0077bb;
+	background: #0088cc;
+	color:white;
+}
+.header {
+	border-top: .5em solid #0088cc;
+}
